@@ -1,0 +1,11 @@
+.innerEdit{
+    width: 100vw !important;
+    margin-top: 10px !important;
+    justify-content: center;
+}
+.title_edit{
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 200px;
+    text-decoration: underline;
+}

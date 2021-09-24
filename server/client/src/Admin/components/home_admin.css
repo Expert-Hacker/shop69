@@ -1,0 +1,20 @@
+.home_div{
+    margin-top: 70px !important;
+}
+.left1_admin{
+    height:85vh;
+    background-color: rgb(231, 253, 246);
+}
+
+.ad_head h4{
+    padding-top: 14px;
+    text-align: center;
+}
+.menu{
+    margin-top: 3vh;
+}
+.menu ul li{
+    font-size: 20px;
+    padding: 10px 10px 13px 5px;
+    list-style: none;
+}

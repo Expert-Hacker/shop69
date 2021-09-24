@@ -1,0 +1,35 @@
+.main_order{
+    margin-top: 80px !important;
+}
+.orderdiv{
+    margin-top: 10px !important;
+    background-color: rgb(226, 242, 255) !important;
+    border-radius: 60px;
+}
+.orderID{
+    break-before: 10px;
+}
+.order_status{
+    background-color: rgb(111, 149, 252);
+    padding: 3px 10px 3px 10px !important;
+    border-radius: 8px;
+}
+.paid{
+    color: green;
+    background-color: lightgreen;
+    padding: 3px 15px 3px 15px !important;
+    border-radius: 14px;
+}
+.using{
+    padding: 3px 3px 3px 3px !important;
+}
+.notpaid{
+    color: rgb(238, 238, 238);
+    background-color: rgb(250, 35, 100);
+    padding: 3px 15px 3px 15px !important;
+    border-radius: 14px;
+}
+.upi{
+    font-size: 13px;
+    color: brown;
+}

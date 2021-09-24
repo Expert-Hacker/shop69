@@ -1,0 +1,11 @@
+.cart_icon{
+    font-size: 20px !important;
+}
+.head1{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+        position: fixed     !important;
+        top: 0px !important;
+    z-index: 2;
+}

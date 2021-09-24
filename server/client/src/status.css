@@ -1,0 +1,12 @@
+.status{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner_status{
+    height: 50vw;
+    height: 50vh;
+}

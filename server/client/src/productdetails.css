@@ -1,0 +1,18 @@
+.inner1{
+    margin-top: 80px !important;
+    justify-content:space-between;
+}
+.right{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.price{
+    display: flex;
+    justify-content:left;
+}
+.price span{
+    opacity: 0.7;
+}
+button{
+    
+}
